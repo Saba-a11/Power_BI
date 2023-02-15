@@ -15,4 +15,16 @@ How to define new parameters for web scraping:
 ![7](https://user-images.githubusercontent.com/60359586/218274919-596ab0eb-3a12-4d71-8563-a2f260bc4007.jpg)
 8.
 ![8](https://user-images.githubusercontent.com/60359586/218274926-e0dab069-d582-4c14-8692-f3e510dd9085.jpg)
+9.
+![9](https://user-images.githubusercontent.com/60359586/219125811-0c69b21d-c66b-42cf-a815-4e87b8d48dab.jpg)
+10.
+![10](https://user-images.githubusercontent.com/60359586/219125847-9abb0f7d-8ebf-436e-acfd-1c28651a66a7.jpg)
+11.
+![11](https://user-images.githubusercontent.com/60359586/219125878-15765b44-acc5-4184-a7ce-a0035c83b8f2.jpg)
+12.
+![12](https://user-images.githubusercontent.com/60359586/219125905-63878f4c-9782-4dac-b592-b57e79833a3c.jpg)
+13.
+![13](https://user-images.githubusercontent.com/60359586/219125928-1e25df56-0131-4678-850c-704f18845de8.jpg)
+14.
+![14](https://user-images.githubusercontent.com/60359586/219125952-1e1408f2-71c1-4c9a-875a-03b40ebb2aef.jpg)
 
