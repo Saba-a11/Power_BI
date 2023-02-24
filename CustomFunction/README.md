@@ -1,3 +1,6 @@
+How to make a custom function of iterative actions: 
+
+
 ![1](https://user-images.githubusercontent.com/60359586/221200159-cb3ccfde-fc46-411f-8ab4-f7252df9dc38.jpg)
 
 ![2](https://user-images.githubusercontent.com/60359586/221200172-e6b4c82a-1945-4e0c-b92f-5d1e9c97edf0.jpg)
